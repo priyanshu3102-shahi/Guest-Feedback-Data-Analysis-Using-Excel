@@ -62,8 +62,8 @@ Visualizations such as column charts, pie charts, pivot tables, and pivot charts
 ---
 
 ## 📂 Project Structure
-Guest-Feedback-Analysis/
-│
-├─ data/ # Dataset
-├─ analysis/ # Excel files with pivots, charts, and analysis/insights
+Guest-Feedback-Analysis/<br>
+│<br>
+├─ data/ # Dataset <br>
+├─ analysis/ # Excel files with pivots, charts, and analysis/insights <br>
 └─ README.md # Project documentation
